@@ -20,7 +20,11 @@
 - (2020)MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification [PDF](https://arxiv.org/pdf/2004.12239.pdf) [解析1](https://mp.weixin.qq.com/s/j_1wgIUhhfJ4FcPRh5HhUw) [解析2](https://mp.weixin.qq.com/s/I0GSzKXwA2jcR-cfFAYnWg)
 
 #### Stance Detection
-- (2020)Stance Detection: A Survey [PDF](http://yoksis.bilkent.edu.tr/pdf/files/14204.pdf)
+- (2020)Stance Detection: A Survey [PDF](http://yoksis.bilkent.edu.tr/pdf/files/14204.pdf
+
+#### Contrastive Learning
+- (2021)Supporting Clustering with Contrastive Learning [PDF](https://arxiv.org/pdf/2103.12953.pdf) [解析1](https://mp.weixin.qq.com/s/BWK_tKR6If7Lww8SrRB5Ww)
+- (2021)SimCSE: Simple Contrastive Learning of Sentence Embeddings [PDF](https://arxiv.org/pdf/2104.08821.pdf) [解析1](https://mp.weixin.qq.com/s/BpbI_S9lXofVFdu8qffIkg)
 
 ## Others
 - Markdown语法 [Runoob Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
