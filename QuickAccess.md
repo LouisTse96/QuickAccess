@@ -13,6 +13,8 @@
 
 ### Pre-Trained Language Model
 - (2021)Pre-Trained Models: Past, Present and Future [PDF](https://arxiv.org/abs/2106.07139.pdf) [解析](https://mp.weixin.qq.com/s/F4xUMY5nSb1ObpHtyAkzWg)
+- (2021)All NLP Tasks Are Generation Tasks: A General Pretraining Framework [PDF](https://arxiv.org/abs/2103.10360)
+- (2021)Learning Zero-Shot Multifaceted Visually Grounded Word Embeddings via Multi-Task Training [PDF](https://arxiv.org/pdf/2104.07500.pdf) [解析](https://mp.weixin.qq.com/s/hGlBvGf8sO-2IBb-M6NOBQ)
 
 ### Text Classification
 #### Review
