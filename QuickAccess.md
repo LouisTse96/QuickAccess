@@ -12,7 +12,7 @@
 - Bert图解 [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
 
 ### Pre-Trained Language Model
-- (2021)Pre-Trained Models: Past, Present and Future [PDF](https://arxiv.org/abs/2106.07139.pdf)
+- (2021)Pre-Trained Models: Past, Present and Future [PDF](https://arxiv.org/abs/2106.07139.pdf) [解析](https://mp.weixin.qq.com/s/F4xUMY5nSb1ObpHtyAkzWg)
 
 ### Text Classification
 #### Review
@@ -22,10 +22,10 @@
 - (2020)Text Classification Using Label Names Only: A Language Model Self-Training Approach [PDF](https://arxiv.org/pdf/2010.07245.pdf) [解析](https://mp.weixin.qq.com/s/IKfcUvrJIfGaL0uxcxvg4g)
 - (2020)MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification [PDF](https://arxiv.org/pdf/2004.12239.pdf) [解析1](https://mp.weixin.qq.com/s/j_1wgIUhhfJ4FcPRh5HhUw) [解析2](https://mp.weixin.qq.com/s/I0GSzKXwA2jcR-cfFAYnWg)
 
-#### Stance Detection
+### Stance Detection
 - (2020)Stance Detection: A Survey [PDF](http://yoksis.bilkent.edu.tr/pdf/files/14204.pdf)
 
-#### Contrastive Learning
+### Contrastive Learning
 - (2021)Supporting Clustering with Contrastive Learning [PDF](https://arxiv.org/pdf/2103.12953.pdf) [解析1](https://mp.weixin.qq.com/s/BWK_tKR6If7Lww8SrRB5Ww)
 - (2021)SimCSE: Simple Contrastive Learning of Sentence Embeddings [PDF](https://arxiv.org/pdf/2104.08821.pdf) [解析1](https://mp.weixin.qq.com/s/BpbI_S9lXofVFdu8qffIkg)
 
