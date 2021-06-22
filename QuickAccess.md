@@ -26,5 +26,8 @@
 - (2021)Supporting Clustering with Contrastive Learning [PDF](https://arxiv.org/pdf/2103.12953.pdf) [解析1](https://mp.weixin.qq.com/s/BWK_tKR6If7Lww8SrRB5Ww)
 - (2021)SimCSE: Simple Contrastive Learning of Sentence Embeddings [PDF](https://arxiv.org/pdf/2104.08821.pdf) [解析1](https://mp.weixin.qq.com/s/BpbI_S9lXofVFdu8qffIkg)
 
+### Fake News Detection
+- (2021)User Preference-aware Fake News Detection [PDF](https://arxiv.org/pdf/2104.12259.pdf) [解析](https://mp.weixin.qq.com/s/VRFr1-8jYJZQACVZnyy3yg)
+
 ## Others
 - Markdown语法 [Runoob Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
